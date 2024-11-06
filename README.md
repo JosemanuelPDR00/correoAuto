@@ -36,6 +36,7 @@ Puedes ejecutar el script desde la línea de comandos. El script te pedirá el c
 ## Ejemplo de Uso
 
 > Introduce el número de días que va a entrenar -> 3
+
 > Introduce el correo electrónico -> cliente@example.com
 
 ## Dependencias
@@ -59,4 +60,4 @@ Configura la variable de entorno en tu sistema o en un archivo .env en el entorn
 - Añadir manejo de errores adicionales para mejorar la robustez del código.
 
 ## Contribución
-*** Si deseas contribuir a este proyecto, puedes hacer un fork del repositorio y enviar un Pull Request con tus propuestas de mejora o corrección. ***
+***Si deseas contribuir a este proyecto, puedes hacer un fork del repositorio y enviar un Pull Request con tus propuestas de mejora o corrección.***
